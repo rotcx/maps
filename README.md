@@ -1,7 +1,7 @@
 # interactive-map
 🗺️Visualizing bike mobility in London using interactive maps
 
-***[https://edenau.github.io/interactive-map/](https://edenau.github.io/interactive-map/)***
+***[https://edenau.github.io/maps/](https://edenau.github.io/maps/)***
 
 # References
 - https://towardsdatascience.com/master-python-through-building-real-world-applications-part-2-60d707955aa3
