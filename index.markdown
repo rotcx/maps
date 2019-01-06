@@ -1,10 +1,17 @@
 # Maps
 ## Visualizing bike mobility in London using interactive maps
 
-- [Bike station cluster map](https://edenau.github.io/maps/station-cluster/)
-- [Density map in morning peak hours](https://edenau.github.io/maps/density-morning)
-- [Density map in evening peak hours](https://edenau.github.io/maps/density-evening)
-- [Static journey connection map](https://edenau.github.io/maps/connection-morning)
-- [Multi-layer journey connection map](https://edenau.github.io/maps/connection-morning-layers)
+- <a href="https://edenau.github.io/maps/station-cluster" target="_blank">Bike station cluster map</a>
+
+- <a href="https://edenau.github.io/maps/density-morning" target="_blank">Density map in morning peak hours</a>
+
+- <a href="https://edenau.github.io/maps/density-evening" target="_blank">Density map in evening peak hours</a>
+
+- <a href="https://edenau.github.io/maps/connection-morning" target="_blank">Static journey connection map</a>
+
+- <a href="https://edenau.github.io/maps/connection-morning-layers" target="_blank">Multi-layer journey connection map</a>
+
+
+
 
 Go back [Home](https://edenau.github.io).
