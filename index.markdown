@@ -1,4 +1,4 @@
-# Maps
+
 ## Visualizing bike mobility in London using interactive maps
 
 - <a href="https://edenau.github.io/maps/station-cluster" target="_blank">Bike station cluster map</a>
