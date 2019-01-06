@@ -1,5 +1,4 @@
-# interactive-map
-🗺️Visualizing bike mobility in London using interactive maps
+# 🗺️Visualizing bike mobility in London using interactive maps
 
 ***[https://edenau.github.io/maps/](https://edenau.github.io/maps/)***
 
