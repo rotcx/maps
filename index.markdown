@@ -13,5 +13,6 @@
 
 
 
+Go back to my [blog](https://edenau.github.io/visualize-bike-mobility/).
 
 Go back [Home](https://edenau.github.io).
