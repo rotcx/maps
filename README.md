@@ -1,9 +1,3 @@
-# 🗺️Visualizing bike mobility in London using interactive maps
+# 🗺️Visualizing bike mobility in London using interactive maps and animations
 
-***[https://edenau.github.io/maps/](https://edenau.github.io/maps/)***
-
-# References
-- https://towardsdatascience.com/master-python-through-building-real-world-applications-part-2-60d707955aa3
-- https://blog.prototypr.io/interactive-maps-with-python-part-1-aa1563dbe5a9
-- https://python-visualization.github.io/folium/
-- https://uclab.fh-potsdam.de/cf/
+Check out my blog [post](https://edenau.github.io/visualize-bike-mobility/) for more information. Maps can be found [here](https://edenau.github.io/maps/).
